@@ -9,10 +9,10 @@
     </string-array>
 
     <string-array name="status">
-        <item >choose one type</item>
-        <item >Full time</item>
-        <item >Part time</item>
-        <item >trainee</item>
+        <item>choose one type</item>
+        <item>Full time</item>
+        <item>Part time</item>
+        <item>trainee</item>
     </string-array>
     <string-array name="designation">
         <item>Choose a type</item>
@@ -20,7 +20,7 @@
         <item>Professor</item>
         <item>Bussiness Man</item>
         <item>Government Official</item>
-        <item >Private company CEO</item>
+        <item>Private company CEO</item>
     </string-array>
     <string-array name="issue">
         <item>Choose a type</item>
@@ -28,6 +28,6 @@
         <item>Internet Issue</item>
         <item>Water Problem</item>
         <item>software installation</item>
-        <item >No Connectionss</item>
+        <item>No Connectionss</item>
     </string-array>
 </resources>
